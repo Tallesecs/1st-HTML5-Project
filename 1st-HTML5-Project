@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang= "pt-BR">
+<meta charset= "UTF-8">
+
+
+<body backgr0mm.jpg">
+
+<font size= "5" face= "Comic Sans MS" color= "white">
+	<center>
+		<h2>Foie Gras François MONTFORT</h2>
+		Iguaria Francesa
+	<hr>
+	</center>
+</font>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<table width="90%" border="0">
+	<font size= "5" face= "Comic Sans MS">
+        <tr>
+            <td bgcolor="#c3c7cc">
+                Inicio
+            </td>
+            <td align="center" rowspan="5">
+                <video controls width"500" height="250" >
+					<source src="videop.mp4" type="video/mp4">
+				</video>
+            </td>
+            <td align="center" rowspan="5">
+                <video controls width"500" height="250" >
+					<source src="foiegras.mp4" type="video/mp4">
+				</video>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#c3c7cc">
+                La Maison
+            </td>
+
+        </tr>
+        <tr>
+            <td bgcolor="#c3c7cc">
+                Receitas
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#c3c7cc">
+                Atualidades
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#c3c7cc">
+                Contato
+            </td>
+        </tr>
+       </font>
+    </table>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+	<center>
+<font color= "red" face= "Comic Sans MS">
+Foie Gras é uma comida francesa bastante apreciadas pelos melhores paladres do mundo.
+<br>
+A empresa <b>François</b> promete entregar o melhor e a
+<br>
+melhor experiência de comer um foie gras.
+</center>
+</font>
+
+<font color="red"><b><h2>PROMOÇÃO</h2></b></font>
+<font color="white"><p>Insira seus dados para cadastro e concorra agora
+<br>
+a um voucher para compras em qualquer supermercado!</p>
+<br>
+
+<table>
+	<tr>
+		<td><label>Nome:</td> <td><input type="text" name="nome" placeholder="Insira aqui seu Nome" tabindex="1"></label></td></tr>
+	<tr>	
+		<td><label>E-mail:</td> <td><input type="text" name="E-mail" placeholder="Insira aqui seu E-mail" tabindex="2"></label></td></tr>
+	<tr>
+		<td><label>CPF:</td> <td><input type="text" name="CPF" placeholder="Insira aqui seu CPF" tabindex="2"></label></td></tr>
+
+</table>
+<br>
+<form>
+<p>Cidade:</p>
+	<input type="radio" name="cidade" value="PR" /> Paris
+	<br>
+	<input type="radio" name="cidade" value="SP" /> São Paulo
+	<br>
+	<input type="radio" name="cidade" value="RJ" /> Rio de Janeiro
+</form>
+<br>
+
+<label><input type="submit" value="Enviar" tabindex="3"></label>
+
+
+</font>
+
+
+
+
+<p align="right">
+
+<font color="white">Acesse o site:<i><a href= "https://www.françoisgras.com.br"> https://www.françoisgras.com.br </a></i>
+<br>
+para obter mais informações
+<br>
+e onde encontrar este produto.
+</p>
+</font>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<font color="white">
+<center>
+<footer>
+	<i><p>@Copyright's to Montfort & Development: Talles Eduardo</p></i>
+</footer>
+</center>
+</font>
+	
+
+
+
+
+</body>
+
+
+
+
+
+</html>
